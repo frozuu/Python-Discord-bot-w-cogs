@@ -1,0 +1,68 @@
+{
+    "706829012693155892": {
+        "credits": 537.5,
+        "items": {
+            "Basic_Fishing_Rod": {
+                "quantity": 5,
+                "price": 100
+            },
+            "Basic_Axe": {
+                "quantity": 3,
+                "price": 300,
+                "durability": 10
+            },
+            "Basic_Fish": {
+                "quantity": 0,
+                "price": 10
+            },
+            "Test_item": {
+                "quantity": 0,
+                "price": 100
+            },
+            "Fishing_Bait": {
+                "quantity": 3,
+                "price": 200,
+                "durability": 5
+            },
+            "Wood_Sticks": {
+                "quantity": 0,
+                "price": 5
+            },
+            "Golden_Wood": {
+                "quantity": 0,
+                "price": 350
+            },
+            "Taxi_car": {
+                "quantity": 1,
+                "price": 800,
+                "durability": 0
+            },
+            "Driver_license": {
+                "quantity": 1,
+                "price": 1000
+            }
+        },
+        "last_fishing_time": "2023-03-25T19:55:28.898273",
+        "money": 300,
+        "last_drive_time": "2023-03-25T19:45:16.109899",
+        "flat_tire": 0,
+        "taxi_car_durability": 0
+    },
+    "291640333077577728": {
+        "credits": 0,
+        "items": {
+            "Fishing_Bait": {
+                "quantity": 1,
+                "price": 200
+            },
+            "Basic_Fishing_Rod": {
+                "quantity": 1,
+                "price": 100
+            },
+            "Basic_Axe": {
+                "quantity": 1,
+                "price": 300
+            }
+        }
+    }
+}
